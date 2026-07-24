@@ -45,6 +45,6 @@ Both repos contain architecture diagrams, technical decisions and lessons learne
 
 ## Contact
 
-📍 Hamburg / Winsen (Luhe) — offen für **Werkstudent**, **Praktikum** und **Junior-Positionen** (Hamburg oder Remote)
+📍 Hamburg  — offen für **Werkstudent**, **Praktikum** und **Junior-Positionen** (Hamburg oder Remote)
 
 📧 [nima.1923.hamediman@gmail.com](mailto:nima.1923.hamediman@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/nima-hamediman-827a733b4/)
