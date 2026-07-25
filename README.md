@@ -1,50 +1,68 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img src="./assets/banner-light.svg" width="100%"
-         alt="Nima HamedIman — Application Developer in training, Hamburg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+    <img width="100%" src="./assets/hero-dark.svg"
+         alt="Terminal: Nima HamedIman — Backend and Linux Engineer in training, Hamburg, Germany. Projects: VoxBridge, private-vpn-infrastructure.">
   </picture>
 </div>
 
-## About
+<div align="center">
+  <a href="https://github.com/NimaHamedIman?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repos-view-0d1117?style=flat-square&labelColor=161b22&color=79c0ff"></a>
+  <a href="https://www.linkedin.com/in/nima-hamediman-827a733b4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0d1117?style=flat-square&labelColor=161b22&color=0a66c2"></a>
+  <img alt="Location" src="https://img.shields.io/badge/location-Hamburg,%20DE-0d1117?style=flat-square&labelColor=161b22&color=3fb950">
+  <img alt="Status" src="https://img.shields.io/badge/open%20to-Werkstudent%20%C2%B7%20Praktikum%20%C2%B7%20Junior-0d1117?style=flat-square&labelColor=161b22&color=d29922">
+</div>
 
-Application Developer in training (**Fachinformatiker Anwendungsentwicklung**, CBW Hamburg, IHK 2027).
-I build backend services and Linux infrastructure — and I document them properly.
+<br>
 
-Focus: **Python backends · Linux/DevOps · AI integration (STT/LLM)**
-I learn by shipping systems that solve a concrete problem, then writing down why they are built that way.
+## `~/about`
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg">
+  <img width="100%" src="./assets/about-dark.svg"
+       alt="About: Application Developer in training (Fachinformatiker Anwendungsentwicklung), CBW Hamburg, IHK 2027. Focus on Python backends, Linux/DevOps and AI integration. Languages: German C1, English, Persian.">
+</picture>
 
-## Selected Work
+## `~/projects`
 
-| Project | Problem it solves | Stack | Status |
-|---|---|---|---|
-| **[VoxBridge](https://github.com/NimaHamedIman/VoxBridge)** | Voice-first assistant for users excluded by keyboard-based UIs | Python · FastAPI · Whisper · Groq · SQLite · Nginx | Live on Hetzner (24/7) |
-| **[private-vpn-infrastructure](https://github.com/NimaHamedIman/private-vpn-infrastructure)** | Censorship-resistant access under state-level DPI | Ubuntu · Xray/REALITY · Nginx · Cloudflare · UFW | Operational · architecture write-up |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/projects-light.svg">
+  <img width="100%" src="./assets/projects-dark.svg"
+       alt="Projects: VoxBridge, a voice-first AI assistant built with Python, FastAPI, Whisper, Groq and SQLite, running 24/7 on Hetzner Cloud. private-vpn-infrastructure, a censorship-resistant transport built with Xray/REALITY, Nginx, Cloudflare and UFW.">
+</picture>
 
-Both repos contain architecture diagrams, technical decisions and lessons learned — not just code.
+| Repository | What it solves | Stack |
+| :--- | :--- | :--- |
+| **[VoxBridge](https://github.com/NimaHamedIman/VoxBridge)** | Voice-first assistant for people who are excluded by keyboard-driven interfaces | Python · FastAPI · Whisper · Groq · SQLite · Nginx · systemd |
+| **[private-vpn-infrastructure](https://github.com/NimaHamedIman/private-vpn-infrastructure)** | Reliable, private internet access from a network with active DPI | Ubuntu · Xray/REALITY · Nginx · Cloudflare · UFW · fail2ban |
 
----
+> Both repositories document the **architecture, the trade-offs and the failures** — not only the code.
 
-## Tech
+## `~/stack`
 
-**Working with:** `Python` · `FastAPI` · `SQLite` · `Linux (Ubuntu)` · `Bash` · `Nginx` · `systemd` · `Git` · `TLS/Networking` · `Whisper / LLM APIs`
-**Currently going deeper:** `PHP` · `Docker` · `REST API design` · `Testing (pytest)` · `Clean Code`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/skills-light.svg">
+  <img width="100%" src="./assets/skills-dark.svg"
+       alt="Skills: Python, Linux and Bash, Nginx and TLS, Git, SQL and SQLite as working knowledge; PHP, Docker and pytest currently being learned. Certifications: Oracle OCFA Java, PCAP Python, AWS Cloud Practitioner, PSM I Scrum.">
+</picture>
 
-**Certifications:** Oracle OCFA Java · PCAP Python · AWS Cloud Practitioner · PSM I
+## `~/contact`
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contact-light.svg">
+  <img width="100%" src="./assets/contact-dark.svg"
+       alt="Contact: GitHub NimaHamedIman, LinkedIn nima-hamediman, e-mail nima.1923.hamediman at gmail dot com, located in Hamburg, Germany, open to remote.">
+</picture>
 
-## Languages
+<div align="center">
 
-🇩🇪 Deutsch (C1) · 🇬🇧 English (professional) · 🇮🇷 Persisch (Muttersprache)
+**[GitHub](https://github.com/NimaHamedIman)** · **[LinkedIn](https://www.linkedin.com/in/nima-hamediman-827a733b4/)** · **[E-Mail](mailto:nima.1923.hamediman@gmail.com)**
 
----
+<sub>Hamburg, Germany — offen für Werkstudent, Praktikum und Junior-Positionen.</sub>
 
-## Contact
-
-📍 Hamburg  — offen für **Werkstudent**, **Praktikum** und **Junior-Positionen** (Hamburg oder Remote)
-
-📧 [nima.1923.hamediman@gmail.com](mailto:nima.1923.hamediman@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/nima-hamediman-827a733b4/)
+</div>

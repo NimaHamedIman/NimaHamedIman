@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 708" width="1600" height="708" role="img">
+<style>text{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:24px;fill:#c9d1d9;letter-spacing:0;dominant-baseline:auto}@keyframes fade{from{opacity:0}to{opacity:1}}.p1{animation:fade .01s linear 0.30s both}.r1{transform:translateX(-247.8px);animation:type1 0.67s steps(16) 0.40s forwards}@keyframes type1{to{transform:translateX(0)}}.p2{animation:fade .14s linear 1.29s both}.p3{animation:fade .14s linear 1.38s both}.p4{animation:fade .14s linear 1.47s both}.p5{animation:fade .14s linear 1.61s both}.p6{animation:fade .14s linear 1.70s both}.p7{animation:fade .14s linear 1.79s both}.p8{animation:fade .01s linear 1.93s both}.r8{transform:translateX(-567.9px);animation:type8 1.55s steps(37) 2.03s forwards}@keyframes type8{to{transform:translateX(0)}}.p9{animation:fade .14s linear 3.81s both}.p10{animation:fade .14s linear 3.90s both}.p11{animation:fade .14s linear 3.99s both}.p12{animation:fade .14s linear 4.08s both}.p13{animation:fade .01s linear 4.22s both}.r13{transform:translateX(-19.2px);animation:type13 0.04s steps(1) 4.32s forwards}@keyframes type13{to{transform:translateX(0)}}.cur{animation:fade .01s linear 4.73s both}</style>
+<rect x="1" y="1" width="1598" height="706" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<path d="M1 13 A12 12 0 0 1 13 1 H1587 A12 12 0 0 1 1599 13 V52 H1 Z" fill="#161b22"/>
+<line x1="1" y1="52" x2="1599" y2="52" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="34" cy="26.0" r="7.5" fill="#ff5f56"/><circle cx="62" cy="26.0" r="7.5" fill="#ffbd2e"/><circle cx="90" cy="26.0" r="7.5" fill="#27c93f"/>
+<text x="800.0" y="32.0" text-anchor="middle" font-size="18" fill="#8b949e">nima@hamburg: ~/projects — bash</text>
+<text class="p1" x="44" y="92" xml:space="preserve"><tspan fill="#3fb950">nima@hamburg</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+<clipPath id="c1"><rect class="r1" x="274.4" y="68.0" width="247.8" height="34"/></clipPath>
+<text x="274.4" y="92" clip-path="url(#c1)" fill="#c9d1d9" font-weight="600" xml:space="preserve">ls -l ~/projects</text>
+<text class="p2" x="44" y="128" xml:space="preserve"><tspan fill="#8b949e">drwxr-xr-x  nima  </tspan><tspan fill="#79c0ff">VoxBridge/</tspan></text>
+<text class="p3" x="44" y="164" xml:space="preserve"><tspan fill="#8b949e">   └─ </tspan><tspan fill="#c9d1d9">Voice-first AI assistant — speech in, AI answer out.</tspan></text>
+<text class="p4" x="44" y="200" xml:space="preserve"><tspan fill="#8b949e">      </tspan><tspan fill="#3fb950">Python · FastAPI · Whisper · Groq/LLaMA · SQLite · Nginx</tspan></text>
+<text class="p5" x="44" y="272" xml:space="preserve"><tspan fill="#8b949e">drwxr-xr-x  nima  </tspan><tspan fill="#79c0ff">private-vpn-infrastructure/</tspan></text>
+<text class="p6" x="44" y="308" xml:space="preserve"><tspan fill="#8b949e">   └─ </tspan><tspan fill="#c9d1d9">Censorship-resistant transport under state-level DPI.</tspan></text>
+<text class="p7" x="44" y="344" xml:space="preserve"><tspan fill="#8b949e">      </tspan><tspan fill="#3fb950">Ubuntu · Xray/REALITY · Nginx · Cloudflare · UFW · fail2ban</tspan></text>
+<text class="p8" x="44" y="416" xml:space="preserve"><tspan fill="#3fb950">nima@hamburg</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+<clipPath id="c8"><rect class="r8" x="274.4" y="392.0" width="567.9" height="34"/></clipPath>
+<text x="274.4" y="416" clip-path="url(#c8)" fill="#c9d1d9" font-weight="600" xml:space="preserve">systemctl status voxbridge --no-pager</text>
+<text class="p9" x="44" y="452" xml:space="preserve"><tspan fill="#3fb950">● </tspan><tspan fill="#c9d1d9">voxbridge.service — VoxBridge AI Voice Assistant</tspan></text>
+<text class="p10" x="44" y="488" xml:space="preserve"><tspan fill="#8b949e">   Loaded: </tspan><tspan fill="#c9d1d9">loaded (/etc/systemd/system/voxbridge.service; enabled)</tspan></text>
+<text class="p11" x="44" y="524" xml:space="preserve"><tspan fill="#8b949e">   Active: </tspan><tspan fill="#3fb950">active (running)</tspan><tspan fill="#c9d1d9"> — Hetzner Cloud, 24/7</tspan></text>
+<text class="p12" x="44" y="560" xml:space="preserve"><tspan fill="#8b949e">     Docs: </tspan><tspan fill="#79c0ff">github.com/NimaHamedIman/VoxBridge</tspan></text>
+<text class="p13" x="44" y="632" xml:space="preserve"><tspan fill="#3fb950">nima@hamburg</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+<clipPath id="c13"><rect class="r13" x="274.4" y="608.0" width="19.2" height="34"/></clipPath>
+<text x="274.4" y="632" clip-path="url(#c13)" fill="#c9d1d9" font-weight="600" xml:space="preserve"></text>
+<g class="cur"><rect x="294.8" y="611.0" width="14.4" height="26" fill="#3fb950" rx="1"><animate attributeName="opacity" values="1;1;0;0" dur="1.06s" repeatCount="indefinite"/></rect></g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 708" width="1600" height="708" role="img">
+<style>text{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:24px;fill:#c9d1d9;letter-spacing:0;dominant-baseline:auto}@keyframes fade{from{opacity:0}to{opacity:1}}.p1{animation:fade .01s linear 0.30s both}.r1{transform:translateX(-202.1px);animation:type1 0.55s steps(13) 0.40s forwards}@keyframes type1{to{transform:translateX(0)}}.p2{animation:fade .14s linear 1.17s both}.p3{animation:fade .14s linear 1.26s both}.p4{animation:fade .14s linear 1.40s both}.p5{animation:fade .14s linear 1.49s both}.p6{animation:fade .14s linear 1.58s both}.p7{animation:fade .01s linear 1.72s both}.r7{transform:translateX(-263.1px);animation:type7 0.71s steps(17) 1.82s forwards}@keyframes type7{to{transform:translateX(0)}}.p8{animation:fade .14s linear 2.75s both}.p9{animation:fade .14s linear 2.84s both}.p10{animation:fade .14s linear 2.93s both}.p11{animation:fade .14s linear 3.02s both}.p12{animation:fade .14s linear 3.11s both}.p13{animation:fade .01s linear 3.25s both}.r13{transform:translateX(-19.2px);animation:type13 0.04s steps(1) 3.35s forwards}@keyframes type13{to{transform:translateX(0)}}.cur{animation:fade .01s linear 3.76s both}</style>
+<rect x="1" y="1" width="1598" height="706" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<path d="M1 13 A12 12 0 0 1 13 1 H1587 A12 12 0 0 1 1599 13 V52 H1 Z" fill="#161b22"/>
+<line x1="1" y1="52" x2="1599" y2="52" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="34" cy="26.0" r="7.5" fill="#ff5f56"/><circle cx="62" cy="26.0" r="7.5" fill="#ffbd2e"/><circle cx="90" cy="26.0" r="7.5" fill="#27c93f"/>
+<text x="800.0" y="32.0" text-anchor="middle" font-size="18" fill="#8b949e">nima@hamburg: ~ — about</text>
+<text class="p1" x="44" y="92" xml:space="preserve"><tspan fill="#3fb950">nima@hamburg</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+<clipPath id="c1"><rect class="r1" x="274.4" y="68.0" width="202.1" height="34"/></clipPath>
+<text x="274.4" y="92" clip-path="url(#c1)" fill="#c9d1d9" font-weight="600" xml:space="preserve">cat about.txt</text>
+<text class="p2" x="44" y="128" xml:space="preserve"><tspan fill="#c9d1d9">Application Developer in training — Fachinformatiker Anwendungsentwicklung.</tspan></text>
+<text class="p3" x="44" y="164" xml:space="preserve"><tspan fill="#c9d1d9">CBW Hamburg · IHK examination 2027 · based in Hamburg, Germany.</tspan></text>
+<text class="p4" x="44" y="236" xml:space="preserve"><tspan fill="#c9d1d9">I build backend services and Linux infrastructure — and I document them</tspan></text>
+<text class="p5" x="44" y="272" xml:space="preserve"><tspan fill="#c9d1d9">properly. I learn by shipping systems that solve a real problem, then</tspan></text>
+<text class="p6" x="44" y="308" xml:space="preserve"><tspan fill="#c9d1d9">writing down why they are built the way they are.</tspan></text>
+<text class="p7" x="44" y="380" xml:space="preserve"><tspan fill="#3fb950">nima@hamburg</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+<clipPath id="c7"><rect class="r7" x="274.4" y="356.0" width="263.1" height="34"/></clipPath>
+<text x="274.4" y="380" clip-path="url(#c7)" fill="#c9d1d9" font-weight="600" xml:space="preserve">neofetch --stdout</text>
+<text class="p8" x="44" y="416" xml:space="preserve"><tspan fill="#3fb950">role     </tspan><tspan fill="#c9d1d9">Backend &amp; Linux Engineer (in training)</tspan></text>
+<text class="p9" x="44" y="452" xml:space="preserve"><tspan fill="#3fb950">focus    </tspan><tspan fill="#c9d1d9">Python backends · Linux/DevOps · AI integration (STT/LLM)</tspan></text>
+<text class="p10" x="44" y="488" xml:space="preserve"><tspan fill="#3fb950">shell    </tspan><tspan fill="#c9d1d9">bash · zsh · a lot of journalctl</tspan></text>
+<text class="p11" x="44" y="524" xml:space="preserve"><tspan fill="#3fb950">langs    </tspan><tspan fill="#c9d1d9">Deutsch C1 · English (professional) · Persisch (native)</tspan></text>
+<text class="p12" x="44" y="560" xml:space="preserve"><tspan fill="#3fb950">open to  </tspan><tspan fill="#d29922">Werkstudent · Praktikum · Junior Backend / DevOps</tspan></text>
+<text class="p13" x="44" y="632" xml:space="preserve"><tspan fill="#3fb950">nima@hamburg</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+<clipPath id="c13"><rect class="r13" x="274.4" y="608.0" width="19.2" height="34"/></clipPath>
+<text x="274.4" y="632" clip-path="url(#c13)" fill="#c9d1d9" font-weight="600" xml:space="preserve"></text>
+<g class="cur"><rect x="294.8" y="611.0" width="14.4" height="26" fill="#3fb950" rx="1"><animate attributeName="opacity" values="1;1;0;0" dur="1.06s" repeatCount="indefinite"/></rect></g>
+</svg>

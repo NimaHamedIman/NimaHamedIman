@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 528" width="1600" height="528" role="img">
+<style>text{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',ui-monospace,Menlo,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace;font-size:24px;fill:#c9d1d9;letter-spacing:0;dominant-baseline:auto}@keyframes fade{from{opacity:0}to{opacity:1}}.p1{animation:fade .01s linear 0.30s both}.r1{transform:translateX(-217.4px);animation:type1 0.59s steps(14) 0.40s forwards}@keyframes type1{to{transform:translateX(0)}}.p2{animation:fade .14s linear 1.21s both}.p3{animation:fade .14s linear 1.30s both}.p4{animation:fade .14s linear 1.39s both}.p5{animation:fade .14s linear 1.48s both}.p6{animation:fade .01s linear 1.62s both}.r6{transform:translateX(-217.4px);animation:type6 0.59s steps(14) 1.72s forwards}@keyframes type6{to{transform:translateX(0)}}.p7{animation:fade .14s linear 2.53s both}.p8{animation:fade .14s linear 2.62s both}.p9{animation:fade .01s linear 2.76s both}.r9{transform:translateX(-19.2px);animation:type9 0.04s steps(1) 2.86s forwards}@keyframes type9{to{transform:translateX(0)}}.cur{animation:fade .01s linear 3.27s both}</style>
+<rect x="1" y="1" width="1598" height="526" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<path d="M1 13 A12 12 0 0 1 13 1 H1587 A12 12 0 0 1 1599 13 V52 H1 Z" fill="#161b22"/>
+<line x1="1" y1="52" x2="1599" y2="52" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="34" cy="26.0" r="7.5" fill="#ff5f56"/><circle cx="62" cy="26.0" r="7.5" fill="#ffbd2e"/><circle cx="90" cy="26.0" r="7.5" fill="#27c93f"/>
+<text x="800.0" y="32.0" text-anchor="middle" font-size="18" fill="#8b949e">nima@hamburg: ~ — contact</text>
+<text class="p1" x="44" y="92" xml:space="preserve"><tspan fill="#3fb950">nima@hamburg</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+<clipPath id="c1"><rect class="r1" x="274.4" y="68.0" width="217.4" height="34"/></clipPath>
+<text x="274.4" y="92" clip-path="url(#c1)" fill="#c9d1d9" font-weight="600" xml:space="preserve">cat contact.md</text>
+<text class="p2" x="44" y="128" xml:space="preserve"><tspan fill="#3fb950">GitHub     </tspan><tspan fill="#79c0ff">github.com/NimaHamedIman</tspan></text>
+<text class="p3" x="44" y="164" xml:space="preserve"><tspan fill="#3fb950">LinkedIn   </tspan><tspan fill="#79c0ff">linkedin.com/in/nima-hamediman-827a733b4</tspan></text>
+<text class="p4" x="44" y="200" xml:space="preserve"><tspan fill="#3fb950">E-Mail     </tspan><tspan fill="#79c0ff">nima.1923.hamediman@gmail.com</tspan></text>
+<text class="p5" x="44" y="236" xml:space="preserve"><tspan fill="#3fb950">Location   </tspan><tspan fill="#c9d1d9">Hamburg, Germany · open to remote</tspan></text>
+<text class="p6" x="44" y="308" xml:space="preserve"><tspan fill="#3fb950">nima@hamburg</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+<clipPath id="c6"><rect class="r6" x="274.4" y="284.0" width="217.4" height="34"/></clipPath>
+<text x="274.4" y="308" clip-path="url(#c6)" fill="#c9d1d9" font-weight="600" xml:space="preserve">echo "$STATUS"</text>
+<text class="p7" x="44" y="344" xml:space="preserve"><tspan fill="#d29922">Open to Werkstudent · Praktikum · Junior Backend / DevOps roles.</tspan></text>
+<text class="p8" x="44" y="380" xml:space="preserve"><tspan fill="#c9d1d9">Replies in Deutsch, English or Persisch.</tspan></text>
+<text class="p9" x="44" y="452" xml:space="preserve"><tspan fill="#3fb950">nima@hamburg</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$ </tspan></text>
+<clipPath id="c9"><rect class="r9" x="274.4" y="428.0" width="19.2" height="34"/></clipPath>
+<text x="274.4" y="452" clip-path="url(#c9)" fill="#c9d1d9" font-weight="600" xml:space="preserve"></text>
+<g class="cur"><rect x="294.8" y="431.0" width="14.4" height="26" fill="#3fb950" rx="1"><animate attributeName="opacity" values="1;1;0;0" dur="1.06s" repeatCount="indefinite"/></rect></g>
+</svg>
