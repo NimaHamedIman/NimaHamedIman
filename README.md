@@ -1,10 +1,6 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img width="100%" src="./assets/hero-dark.svg"
+  <img width="100%" src="./assets/hero-dark.svg"
          alt="Terminal: Nima HamedIman — Backend and Linux Engineer in training, Hamburg, Germany. Projects: VoxBridge, private-vpn-infrastructure.">
-  </picture>
 </div>
 
 <div align="center">
@@ -18,21 +14,13 @@
 
 ## `~/about`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg">
-  <img width="100%" src="./assets/about-dark.svg"
+<img width="100%" src="./assets/about-dark.svg"
        alt="About: Application Developer in training (Fachinformatiker Anwendungsentwicklung), CBW Hamburg, IHK 2027. Focus on Python backends, Linux/DevOps and AI integration. Languages: German C1, English, Persian.">
-</picture>
 
 ## `~/projects`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/projects-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/projects-light.svg">
-  <img width="100%" src="./assets/projects-dark.svg"
+<img width="100%" src="./assets/projects-dark.svg"
        alt="Projects: VoxBridge, a voice-first AI assistant built with Python, FastAPI, Whisper, Groq and SQLite, running 24/7 on Hetzner Cloud. private-vpn-infrastructure, a censorship-resistant transport built with Xray/REALITY, Nginx, Cloudflare and UFW.">
-</picture>
 
 | Repository | What it solves | Stack |
 | :--- | :--- | :--- |
@@ -43,21 +31,13 @@
 
 ## `~/stack`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/skills-light.svg">
-  <img width="100%" src="./assets/skills-dark.svg"
+<img width="100%" src="./assets/skills-dark.svg"
        alt="Skills: Python, Linux and Bash, Nginx and TLS, Git, SQL and SQLite as working knowledge; PHP, Docker and pytest currently being learned. Certifications: Oracle OCFA Java, PCAP Python, AWS Cloud Practitioner, PSM I Scrum.">
-</picture>
 
 ## `~/contact`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/contact-light.svg">
-  <img width="100%" src="./assets/contact-dark.svg"
+<img width="100%" src="./assets/contact-dark.svg"
        alt="Contact: GitHub NimaHamedIman, LinkedIn nima-hamediman, e-mail nima.1923.hamediman at gmail dot com, located in Hamburg, Germany, open to remote.">
-</picture>
 
 <div align="center">
 
